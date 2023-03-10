@@ -1,2 +1,3 @@
-# spichki
-Simple game on Python (tkinter)
+# Spichki
+
+The classic game of matches on Python (tkinter)
