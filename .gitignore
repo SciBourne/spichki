@@ -1,3 +1,9 @@
+# Emacs-specific objects
+.projectile
+
+# Poetry-specific objects
+poetry.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
